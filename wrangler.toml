@@ -10,4 +10,4 @@ API_KEY = ""
 
 [[kv_namespaces]]
 binding = "CONVERSATIONS"
-id = "YOUR_KV_NAMESPACE_ID"
+id = ""
